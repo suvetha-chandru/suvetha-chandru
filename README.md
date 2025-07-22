@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @suvetha-chandru
-- 👀 I’m interested in Full Stack development
-- 🌱 I’m currently learning Front-End Development
+- 👀 I’m interested in Flutter development
+
